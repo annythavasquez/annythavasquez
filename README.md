@@ -1,4 +1,4 @@
-# ¡Hola, soy Ana Vasquesz! 👋
+# ¡Hola, soy Ana Vasquez! 👋
 
 Soy Ana Vasquesz, una desarrolladora de software especializada en el desarrollo backend con Java y una amplia experiencia en bases de datos MySQL.
 
